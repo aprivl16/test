@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Inter', sans-serif;
+    /* font-family: 'Montserrat', sans-serif; */
+    color: #E4E5EA;
+    background-image: url("../img/Desktop.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+button{
+    background: transparent;
+    border: none;
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+}
+
+li{
+    list-style-type: none;
+}
+
+.container{
+    max-width: 1160px;
+    padding: 0 10px;
+    margin: 0 auto;
+}
